@@ -7,7 +7,6 @@ There are no tests for this assignment. The bonus is to write your own tests. Yo
 - Fork this repo
 - `git clone` the forked repository
 - `cd` to the directory where you cloned it
-- `cd [your github url]`
 - `touch app.js`
 - `npm init`
   - follow the prompts and confirm settings (this is just practice so it's ok to not provide much information/make a mistake/keep it simple)
